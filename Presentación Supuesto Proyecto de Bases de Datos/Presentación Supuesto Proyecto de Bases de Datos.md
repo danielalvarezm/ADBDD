@@ -1,4 +1,4 @@
-# Presentación Supuesto Proyecto de Bases de Datos
+# Presentación Supuesto Proyecto de Bases de Datos: Agua y desarrollo
 ## Análisis de la información
 
 La agenda de la cooperación internacional ha considerado permanentemente la disponibilidad de agua y el saneamiento como un grave problema que afecta a una gran cantidad de individuos. De hecho, se calcula que al menos 748 millones de personas no tienen acceso al agua potable, y 2.500 millones no cuentan con sistemas que permitan potabilizar adecuadamente dicha agua.
