@@ -11,3 +11,4 @@ Repositorio creado para las tareas de la asignatura **Administración y Diseño 
   * [Presentación Supuesto Proyecto de Bases de Datos](https://github.com/alu0101216126/ADBDD/blob/main/Presentaci%C3%B3n%20Supuesto%20Proyecto%20de%20Bases%20de%20Datos/An%C3%A1lisis%20del%20supuesto.md)
   * [Modelo Entidad Relación Farmacia](https://github.com/alu0101216126/ADBDD/blob/main/Modelo%20de%20Entidad-Relaci%C3%B3n%20Farmacia/Modelo%20de%20Entidad-Relaci%C3%B3n%20Farmacia.png)
   * [Modelo Entidad Relación Viveros](https://github.com/alu0101216126/ADBDD/blob/main/Modelo%20de%20Entidad-Relaci%C3%B3n%20Vivero/Modelo%20de%20Entidad-Relaci%C3%B3n%20Vivero.png)
+  * [Modelo Lógico Relacional: Viveros](https://github.com/alu0101216126/ADBDD/tree/main/Modelo%20L%C3%B3gico%20Relacional%20Viveros)
