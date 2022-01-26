@@ -1,10 +1,10 @@
 # Modelo Objeto-Relacional Arquitectos
 
-Modelo del ejercicio de Proyectos Arquitectónicos en UML:
+## Modelo del ejercicio de Proyectos Arquitectónicos en UML
 
 ![Modelo arquitectos](modelo_UML_arquitectos.png)
 
-Script para la generación de la base de datos en PostgreSQL:
+## Script para la generación de la base de datos en PostgreSQL
 
 ```sql
 CREATE TYPE Tipo_Direccion AS
