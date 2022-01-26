@@ -15,4 +15,5 @@ Repositorio creado para las tareas de la asignatura **Administración y Diseño 
   * [Modelo Entidad Relación Viveros](https://github.com/alu0101216126/ADBDD/blob/main/Modelo%20de%20Entidad-Relaci%C3%B3n%20Vivero/Modelo%20de%20Entidad-Relaci%C3%B3n%20Vivero.png)
   * [Modelo Lógico Relacional: Viveros](https://github.com/alu0101216126/ADBDD/tree/main/Modelo%20L%C3%B3gico%20Relacional%20Viveros)
   * [Modelo Lógico Relacional(Disparadores): Viveros](https://github.com/alu0101216126/ADBDD/tree/main/Modelo%20Lógico%20Relacional%20(Disparadores))
+  * [Modelo Objeto-Relacional Arquitectos](https://github.com/alu0101216126/ADBDD/tree/main/Modelo%20Objeto-Relacional%20Arquitectos)
 
