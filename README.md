@@ -2,9 +2,11 @@
 
 Grupo formado por:
 
- * **Daniel Álvarez Medina - [alu0101216126@ull.edu.es](alu0101216126@ull.edu.es)**
- * **Alberto Mendoza Rodríguez - [alu0101217741@ull.edu.es](alu0101217741@ull.edu.es)**
- * **Acoidán Mesa Hernández - [alu0101206479@ull.edu.es](alu0101206479@ull.edu.es)**
+ *  **Daniel Álvarez Medina - [ alu0101216126@ull.edu.es ](alu0101216126@ull.edu.es)**
+ *  **Alberto Mendoza Rodríguez - [ alu0101217741@ull.edu.es ](alu0101217741@ull.edu.es)**
+ *  **Dayana Armas Alonso - [ alu0101228020@ull.edu.es ](alu0101228020@ull.edu.es)**
+ *  **Jorge Hernández Batista - [ alu0101214627@ull.edu.es ](alu0101214627@ull.edu.es)**
+ *  **Acoidán Mesa Hernández - [ alu0101206479@ull.edu.es ](alu0101206479@ull.edu.es)**
 
 Repositorio creado para las tareas de la asignatura **Administración y Diseño de Base de Datos**, que son las siguientes:
   * [Conclusiones artículos](https://github.com/alu0101216126/ADBDD/tree/main/Conclusiones%20art%C3%ADculos)
