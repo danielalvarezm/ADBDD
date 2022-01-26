@@ -1,5 +1,12 @@
 # Modelo Objeto-Relacional Arquitectos
 
+## Componentes del grupo
+- Daniel Álvarez Medina - alu0101216126@ull.edu.es
+- Dayana Armas Alonso - alu0101228020@ull.edu.es
+- Jorge Hernández Batista - alu0101214627@ull.edu.es
+- Alberto Mendoza Rodríguez - alu0101217741@ull.edu.es
+- Acoidán Mesa Hernández - alu0101206479@ull.edu.es
+
 ## Modelo del ejercicio de Proyectos Arquitectónicos en UML
 
 ![Modelo arquitectos](modelo_UML_arquitectos.png)
